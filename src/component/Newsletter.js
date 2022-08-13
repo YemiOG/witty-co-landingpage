@@ -21,7 +21,7 @@ const Newsletter = () => {
             className="bg-[#cfff04] w-[200px] rounded-md font-medium ml-4
            my-6 mx-auto py-3 md:mx-0  text-[black]"
           >
-            Notify Me
+            Notify Me!
           </button>
         </div>
       </div>
