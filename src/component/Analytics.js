@@ -21,7 +21,9 @@ const Analytics = () => {
             quae eos odit at minima. Doloremque deleniti similique molestias
             enim? Exercitationem, nobis deleniti.
           </p>
-          <button>Get Started</button>
+          <button className="bg-black text-[#cfff04] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
+            Get Started
+          </button>
         </div>
       </div>
     </div>
